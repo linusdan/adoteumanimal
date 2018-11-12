@@ -1,8 +1,7 @@
 # Adote um animal
-
+#TeamTentamos
 ![estacao logo](https://github.com/linusdan/adoteumanimal/raw/master/estacao-logo.png)  
 
-#TeamTentamos
 
 Componentes
 -------
